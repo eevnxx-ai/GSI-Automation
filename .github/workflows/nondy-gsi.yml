@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://mirror.gabuters-dev.my.id/0:/Vsmart%20Aris%20-%20VOS3.0%20February%20Update.zip
-  ROM_NAME: VsmartOS
-  ZIP_NAME: VsmartOS-TEST
+  ROM_URL: https://bigota.d.miui.com/V12.0.15.0.QCDEUXM/miui_DANDELIONEEAGlobal_V12.0.15.0.QCDEUXM_37ae104f8f_10.0.zip
+  ROM_NAME: MIUI
+  ZIP_NAME: MIUI
   TZ: Asia/Kolkata
 jobs:
   build:
