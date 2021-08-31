@@ -3,9 +3,9 @@ name: Building GSI..
 on: [push]
 
 env:
-  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus5TOxygen/OnePlus5TOxygen_43.J.69_GLO_069_2010292144/OnePlus5TOxygen_43_OTA_069_all_2010292144_de4a6fa.zip
-  ROM_NAME: OxygenOS
-  ZIP_NAME: Oxygen-test
+  ROM_URL: https://mirror.gabuters-dev.my.id/0:/Nusantara_v3.2-11-RMX1851-30082021-OFFICIAL-1950.zip
+  ROM_NAME: NusantaraOS
+  ZIP_NAME: NusantaraOS-TEST
   TZ: Asia/Kolkata
 jobs:
   build:
